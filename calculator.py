@@ -15,3 +15,4 @@ def get_Remainder(a,b):
 
 def get_Median(a,b):
   return (a*b)/2
+
